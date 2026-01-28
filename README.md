@@ -1,5 +1,6 @@
 # 💫 About Me:
-Learn Coding for Information Systems: Essential Skills for the Future<br>
+I am an Information Systems student who is building skills in web development and modern digital solutions.<br>
+Motto: Keep trying until you get what you want.
 
 
 ## 🌐 Socials:
