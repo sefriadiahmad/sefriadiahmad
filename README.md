@@ -19,16 +19,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
-const ahmad = {
+const ahmad_sefriadi = {
     name: "Ahmad Sefriadi",
     location: "Jambi, Indonesia 🇮🇩",
     role: "Full-Stack Web Developer",
     education: "Universitas Nurdin Hamzah Jambi",
     major: "Information Systems",
     currentFocus: "Career development in IT world",
-    motto: "[YOUR MOTTO HERE - Add your professional motto or tagline]",
-    interests: ["Web Development", "UI/UX", "Backend Systems"],
-    bio: "[YOUR BIO HERE - Write 2-3 sentences about yourself and your journey as a developer]"
 };
 ```
 
@@ -55,7 +52,7 @@ const ahmad = {
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
 </p>
 
 ### 🗄️ Database & Tools
