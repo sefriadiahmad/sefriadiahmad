@@ -61,12 +61,6 @@ const ahmad_sefriadi = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,git,github,docker,vscode,figma" />
 </p>
 
-### 📊 Language Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefriadiahmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -75,20 +69,18 @@ const ahmad_sefriadi = {
 
 <p align="center">
   <a href="https://github.com/sefriadiahmad?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sefriadiahmad&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sefriadiahmad&repo=notes-app-restful-api&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/sefriadiahmad?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sefriadiahmad&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sefriadiahmad&repo=project-si-zakat&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sefriadiahmad?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sefriadiahmad&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sefriadiahmad&repo=forumku-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
-
-> **📝 Note:** Replace `YOUR_REPO_1`, `YOUR_REPO_2`, and `YOUR_REPO_3` with your actual repository names you want to showcase.
 
 ---
 
@@ -170,7 +162,7 @@ const myJourney: Developer = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 📫 Let's Build Something Amazing Together
+#
 
 <p align="center">
   <strong>Full-Stack Web Developer • Information Systems Student</strong><br>
