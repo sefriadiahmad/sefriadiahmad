@@ -14,7 +14,7 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefriadiahmad/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sefriadiahmad/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sefriadiahmad) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sefriadiahmad) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefriadiahmad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefriadiahmad/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sefriadiahmad/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sefriadiahmad) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefriadiahmad@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sefriadiahmad&style=flat-square&color=3498DB&label=PROFILE+VIEWS)
 
@@ -135,7 +135,6 @@ const myJourney: Developer = {
   <a href="https://www.linkedin.com/in/sefriadiahmad/">LinkedIn</a> •
   <a href="mailto:sefriadiahmad@gmail.com">Email</a> •
   <a href="https://www.instagram.com/sefriadiahmad/">Instagram</a> •
-  <a href="https://www.youtube.com/@sefriadiahmad">YouTube</a> •
   <a href="https://www.tiktok.com/@sefriadiahmad">TikTok</a>
 </p>
 
